@@ -2,8 +2,8 @@
 //  testTests.swift
 //  testTests
 //
-//  Created by Deep Moradia on 02/07/20.
-//  Copyright © 2020 Deep Moradia. All rights reserved.
+//  Created by Tejas Nanavati on 02/07/20.
+//  Copyright © 2020 Tejas Nanavati. All rights reserved.
 //
 
 import XCTest

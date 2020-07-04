@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE7D50F3-1261-4853-A760-C6855AFFCB74"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83A8CF5C-ECD8-4433-A884-06D3DBA64FAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/CityViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loadJson(filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7068CF3C-44DE-49B6-A670-BCD77E5D47E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/CityViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "tagRemoveButtonPressed(_:tagView:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91A8D595-A298-4E5D-81D9-7FA370A3C03B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/CurrentLocationViewCotroller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "getDateWiseData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A38DC97-63B7-48F7-8DAE-08268CFABE2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/CurrentLocation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "weather"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1A38DC97-63B7-48F7-8DAE-08268CFABE2A - 51738314f5b7941e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test.MainViewController.(weather in _C5FA99BC23EEC5C525C42A2B02F6976C).didset : Swift.Optional&lt;test.WeatherForcast&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/CurrentLocation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "4906">
+               </Location>
+               <Location
+                  uuid = "1A38DC97-63B7-48F7-8DAE-08268CFABE2A - 51738314f5b7941e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test.MainViewController.(weather in _C5FA99BC23EEC5C525C42A2B02F6976C).didset : Swift.Optional&lt;test.WeatherForcast&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/CurrentLocation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "5445">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A28D0494-4600-4BC2-B8E9-00A4065DE40C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/WeatherForcast.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "init(json:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40711527-32EB-4A4B-B969-C9F225B55E0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/CurrentLocation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "weather"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACEDB455-72B1-436F-A267-22D91F39D348"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/NetworkManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getCurrentWeather(city:code:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A95170F3-F582-4853-8BAC-A7FFBD5DC34C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/NetworkManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getCurrentWeather(city:code:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11A58F27-5B17-4848-8DF4-48259D2036F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/NetworkManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "getWeatherFor5Days(city:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11A58F27-5B17-4848-8DF4-48259D2036F8 - 491a8fc7b0ff8e4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.NetworkManager.getWeatherFor5Days(city: Swift.String, completion: (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/NetworkManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1049">
+               </Location>
+               <Location
+                  uuid = "11A58F27-5B17-4848-8DF4-48259D2036F8 - 491a8fc7b0ff8e4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.NetworkManager.getWeatherFor5Days(city: Swift.String, completion: (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/NetworkManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1653">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F1B620D-0F99-4221-92A0-B3466D3188AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Helper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getDegreeCelsius(temprature:convertToCelsius:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2C77F09-F61E-455A-918E-CAB4245472E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testTests/ForecastServiceJsonTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "test_getForecastFromLocalJson_shouldReturn40Items()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2C77F09-F61E-455A-918E-CAB4245472E4 - e3ca2a5ab56a7b1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;testTests.ForecastResponse, testTests.ApiError&gt;) -&gt; () in testTests.ForecastServiceJsonTests.test_getForecastFromLocalJson_shouldReturn40Items() throws -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/testTests/ForecastServiceJsonTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "175">
+               </Location>
+               <Location
+                  uuid = "A2C77F09-F61E-455A-918E-CAB4245472E4 - e3ca2a5ab56a7b1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;testTests.ForecastResponse, testTests.ApiError&gt;) -&gt; () in testTests.ForecastServiceJsonTests.test_getForecastFromLocalJson_shouldReturn40Items() throws -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/testTests/ForecastServiceJsonTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "243">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B11BFA50-E564-48E4-8495-FD874D99B022"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/ForcastServiceJson/ForecastServiceJson.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getForecasts(city:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B11BFA50-E564-48E4-8495-FD874D99B022 - 2412f24a1b5a6bff"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test.ForecastServiceJson.getForecasts(city: Swift.String, completion: Swift.Optional&lt;(Swift.Result&lt;test.ForecastResponse, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/ForcastServiceJson/ForecastServiceJson.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "153">
+               </Location>
+               <Location
+                  uuid = "B11BFA50-E564-48E4-8495-FD874D99B022 - be9b2dd65a1bbabb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testTests.ForecastServiceJson.getForecasts(city: Swift.String, completion: Swift.Optional&lt;(Swift.Result&lt;testTests.ForecastResponse, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/ForcastServiceJson/ForecastServiceJson.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "153">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91E53061-E36A-4BD4-A3AF-76806FC24459"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/ForcastServiceJson/ForecastServiceJson.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getForecasts(city:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91E53061-E36A-4BD4-A3AF-76806FC24459 - 2412f24a1b5a6bff"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test.ForecastServiceJson.getForecasts(city: Swift.String, completion: Swift.Optional&lt;(Swift.Result&lt;test.ForecastResponse, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/ForcastServiceJson/ForecastServiceJson.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "91E53061-E36A-4BD4-A3AF-76806FC24459 - be9b2dd65a1bbabb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testTests.ForecastServiceJson.getForecasts(city: Swift.String, completion: Swift.Optional&lt;(Swift.Result&lt;testTests.ForecastResponse, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/ForcastServiceJson/ForecastServiceJson.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10FBAC6F-5F63-462E-B4D5-186580C3AAA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/ForcastServiceJson/ForecastServiceJson.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(filename:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "10FBAC6F-5F63-462E-B4D5-186580C3AAA8 - 30954982573f1fae"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test.ForecastServiceJson.init(filename: Swift.String) -&gt; test.ForecastServiceJson"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/ForcastServiceJson/ForecastServiceJson.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "10FBAC6F-5F63-462E-B4D5-186580C3AAA8 - b1ab5002390d5926"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testTests.ForecastServiceJson.init(filename: Swift.String) -&gt; testTests.ForecastServiceJson"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/ForcastServiceJson/ForecastServiceJson.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F501E3AE-DE53-482B-9B4E-48B010958D36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testTests/RequestManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "test_requestManager_shouldCallCompluetionWithResult()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F501E3AE-DE53-482B-9B4E-48B010958D36 - 20b58a231893118f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;testTests.ForecastResponse, testTests.ApiError&gt;) -&gt; () in testTests.RequestManagerTests.test_requestManager_shouldCallCompluetionWithResult() -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/testTests/RequestManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "149">
+               </Location>
+               <Location
+                  uuid = "F501E3AE-DE53-482B-9B4E-48B010958D36 - 20b58a231893118f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;testTests.ForecastResponse, testTests.ApiError&gt;) -&gt; () in testTests.RequestManagerTests.test_requestManager_shouldCallCompluetionWithResult() -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/testTests/RequestManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "F501E3AE-DE53-482B-9B4E-48B010958D36 - 20b58a231893118f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;testTests.ForecastResponse, testTests.ApiError&gt;) -&gt; () in testTests.RequestManagerTests.test_requestManager_shouldCallCompluetionWithResult() -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/testTests/RequestManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86D5C50C-893D-42B9-818D-AC920209ABCC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testTests/RequestManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "test_requestManager_shouldCallCompluetionWithResult()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86D5C50C-893D-42B9-818D-AC920209ABCC - 20b58a231893118f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;testTests.ForecastResponse, testTests.ApiError&gt;) -&gt; () in testTests.RequestManagerTests.test_requestManager_shouldCallCompluetionWithResult() -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/testTests/RequestManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "149">
+               </Location>
+               <Location
+                  uuid = "86D5C50C-893D-42B9-818D-AC920209ABCC - 20b58a231893118f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;testTests.ForecastResponse, testTests.ApiError&gt;) -&gt; () in testTests.RequestManagerTests.test_requestManager_shouldCallCompluetionWithResult() -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/testTests/RequestManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "86D5C50C-893D-42B9-818D-AC920209ABCC - 20b58a231893118f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;testTests.ForecastResponse, testTests.ApiError&gt;) -&gt; () in testTests.RequestManagerTests.test_requestManager_shouldCallCompluetionWithResult() -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/testTests/RequestManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C3284AF-2851-4CDB-8C2C-8C8E70D5D8AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testTests/RequestManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "test_requestManager_shouldCallCompluetionWithResult()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F67B867D-5DF1-4EA2-8413-D1E8D71A02B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetch(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F67B867D-5DF1-4EA2-8413-D1E8D71A02B6 - e9f914dde1444b8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test.RequestManagerDefault.fetch&lt;A where A: test.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  uuid = "F67B867D-5DF1-4EA2-8413-D1E8D71A02B6 - 5cebe00ec8051222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.RequestManagerDefault.fetch&lt;A where A: test.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "F67B867D-5DF1-4EA2-8413-D1E8D71A02B6 - dfe8c1d6ab8783d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testTests.RequestManagerDefault.fetch&lt;A where A: testTests.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  uuid = "F67B867D-5DF1-4EA2-8413-D1E8D71A02B6 - 4a482cb76c68c41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testTests.RequestManagerDefault.fetch&lt;A where A: testTests.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D67E119-F631-4CB3-9BDA-44B12A079203"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetch(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D67E119-F631-4CB3-9BDA-44B12A079203 - 5cebe00ec8051222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.RequestManagerDefault.fetch&lt;A where A: test.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "850">
+               </Location>
+               <Location
+                  uuid = "5D67E119-F631-4CB3-9BDA-44B12A079203 - 4a482cb76c68c41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testTests.RequestManagerDefault.fetch&lt;A where A: testTests.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "850">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DAD120B-7665-46AC-96D9-4D8A6E4C2519"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetch(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DAD120B-7665-46AC-96D9-4D8A6E4C2519 - 5cebe00ec8051222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.RequestManagerDefault.fetch&lt;A where A: test.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "539">
+               </Location>
+               <Location
+                  uuid = "9DAD120B-7665-46AC-96D9-4D8A6E4C2519 - 4a482cb76c68c41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testTests.RequestManagerDefault.fetch&lt;A where A: testTests.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "539">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "430A282C-3A0D-40D8-9CB8-E00B98405FF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "fetch(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "430A282C-3A0D-40D8-9CB8-E00B98405FF2 - 5cebe00ec8051222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.RequestManagerDefault.fetch&lt;A where A: test.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1135">
+               </Location>
+               <Location
+                  uuid = "430A282C-3A0D-40D8-9CB8-E00B98405FF2 - 4a482cb76c68c41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testTests.RequestManagerDefault.fetch&lt;A where A: testTests.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA046FB0-2B6F-4DEB-A588-1A162CE6CFDF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetch(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA046FB0-2B6F-4DEB-A588-1A162CE6CFDF - 5cebe00ec8051222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.RequestManagerDefault.fetch&lt;A where A: test.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1135">
+               </Location>
+               <Location
+                  uuid = "AA046FB0-2B6F-4DEB-A588-1A162CE6CFDF - 4a482cb76c68c41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testTests.RequestManagerDefault.fetch&lt;A where A: testTests.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53E98C42-7204-4270-8CC2-FC5E95D28387"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "fetch(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53E98C42-7204-4270-8CC2-FC5E95D28387 - 5cebe00ec8051222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.RequestManagerDefault.fetch&lt;A where A: test.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1375">
+               </Location>
+               <Location
+                  uuid = "53E98C42-7204-4270-8CC2-FC5E95D28387 - 4a482cb76c68c41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testTests.RequestManagerDefault.fetch&lt;A where A: testTests.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1375">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AA3AA58-0D52-4D00-83D3-5EEA2E17190F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2AA3AA58-0D52-4D00-83D3-5EEA2E17190F - bd7826956029b6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1410">
+               </Location>
+               <Location
+                  uuid = "2AA3AA58-0D52-4D00-83D3-5EEA2E17190F - 1d7ebe01eb23e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1410">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10B712BD-0801-4DCA-A41D-5B728B860544"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "10B712BD-0801-4DCA-A41D-5B728B860544 - bd7826956029b6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1923">
+               </Location>
+               <Location
+                  uuid = "10B712BD-0801-4DCA-A41D-5B728B860544 - 1d7ebe01eb23e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1923">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35E591F9-6C46-4963-8621-D0889F8F8075"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "35E591F9-6C46-4963-8621-D0889F8F8075 - bd7826956029b6ca"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2218">
+               </Location>
+               <Location
+                  uuid = "35E591F9-6C46-4963-8621-D0889F8F8075 - 7f300f459066a171"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Swift.String, value: Swift.String), (key: Swift.String, value: Swift.String)) -&gt; Swift.Bool in (extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "35E591F9-6C46-4963-8621-D0889F8F8075 - 1d7ebe01eb23e173"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2218">
+               </Location>
+               <Location
+                  uuid = "35E591F9-6C46-4963-8621-D0889F8F8075 - 764095ab17aa2484"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Swift.String, value: Swift.String), (key: Swift.String, value: Swift.String)) -&gt; Swift.Bool in (extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D20DC04B-E35F-49CD-AE3E-9267E11BB39E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D20DC04B-E35F-49CD-AE3E-9267E11BB39E - bd7826956029b6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "3403">
+               </Location>
+               <Location
+                  uuid = "D20DC04B-E35F-49CD-AE3E-9267E11BB39E - 1d7ebe01eb23e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "3403">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7CE5CE5-E945-43BC-AB8D-2F3663640421"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D7CE5CE5-E945-43BC-AB8D-2F3663640421 - bd7826956029b6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "3873">
+               </Location>
+               <Location
+                  uuid = "D7CE5CE5-E945-43BC-AB8D-2F3663640421 - 1d7ebe01eb23e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "3873">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27218510-D3D0-4D4F-8012-E7D29CB77E3C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "27218510-D3D0-4D4F-8012-E7D29CB77E3C - bd7826956029b6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "4313">
+               </Location>
+               <Location
+                  uuid = "27218510-D3D0-4D4F-8012-E7D29CB77E3C - 1d7ebe01eb23e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "4313">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A78E2A70-E954-4A19-85CB-9D1B3FBD7237"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A78E2A70-E954-4A19-85CB-9D1B3FBD7237 - bd7826956029b6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "4457">
+               </Location>
+               <Location
+                  uuid = "A78E2A70-E954-4A19-85CB-9D1B3FBD7237 - 1d7ebe01eb23e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "4457">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92F5B62B-5676-4811-84D3-D89FDA848682"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "92F5B62B-5676-4811-84D3-D89FDA848682 - bd7826956029b6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "4538">
+               </Location>
+               <Location
+                  uuid = "92F5B62B-5676-4811-84D3-D89FDA848682 - 1d7ebe01eb23e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "4538">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0C5BD64-48F5-4E76-9D06-F29F19DBB8A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetch(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B0C5BD64-48F5-4E76-9D06-F29F19DBB8A0 - 5cebe00ec8051222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.RequestManagerDefault.fetch&lt;A where A: test.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1669">
+               </Location>
+               <Location
+                  uuid = "B0C5BD64-48F5-4E76-9D06-F29F19DBB8A0 - 4a482cb76c68c41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testTests.RequestManagerDefault.fetch&lt;A where A: testTests.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1669">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC86D719-3B0F-4DF8-B962-4F7843DD84BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetch(_:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5BC3BD9-AE77-404C-A6B4-4FD811E07942"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetch(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5BC3BD9-AE77-404C-A6B4-4FD811E07942 - 5cebe00ec8051222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.RequestManagerDefault.fetch&lt;A where A: test.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "2641">
+               </Location>
+               <Location
+                  uuid = "E5BC3BD9-AE77-404C-A6B4-4FD811E07942 - 4a482cb76c68c41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testTests.RequestManagerDefault.fetch&lt;A where A: testTests.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "2641">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5432D931-B4BD-4FBC-AF27-538AB02BB16D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5432D931-B4BD-4FBC-AF27-538AB02BB16D - bd7826956029b6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4631">
+               </Location>
+               <Location
+                  uuid = "5432D931-B4BD-4FBC-AF27-538AB02BB16D - 1d7ebe01eb23e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4631">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "292A9044-1860-4532-AE2A-8FC7B37E303A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "urlRequest"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "292A9044-1860-4532-AE2A-8FC7B37E303A - bd7826956029b6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "4538">
+               </Location>
+               <Location
+                  uuid = "292A9044-1860-4532-AE2A-8FC7B37E303A - 1d7ebe01eb23e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.urlRequest.getter : Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "4538">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7F63D6E-9ECE-4BC8-861B-CDBC378532FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "decoder"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A7F63D6E-9ECE-4BC8-861B-CDBC378532FF - 222afccb7dd2086b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.decoder.getter : Foundation.JSONDecoder"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "A7F63D6E-9ECE-4BC8-861B-CDBC378532FF - 4af1c7fccf4b8843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.decoder.getter : Foundation.JSONDecoder"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27A6A7B4-BA5C-45EE-9820-7A721387F568"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/Requests/ApiRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "decodeResponse(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "27A6A7B4-BA5C-45EE-9820-7A721387F568 - 9254f1b9ce9f5bc5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in test):test.ApiRequest.decodeResponse(data: Foundation.Data) throws -&gt; A.ResponseType"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "27A6A7B4-BA5C-45EE-9820-7A721387F568 - 10c1ac67178bdf9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in testTests):testTests.ApiRequest.decodeResponse(data: Foundation.Data) throws -&gt; A.ResponseType"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/Requests/ApiRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15BB9CF2-9E4B-4DA1-93E0-6AFACECADFD9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetch(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15BB9CF2-9E4B-4DA1-93E0-6AFACECADFD9 - 5cebe00ec8051222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in test.RequestManagerDefault.fetch&lt;A where A: test.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, test.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2154">
+               </Location>
+               <Location
+                  uuid = "15BB9CF2-9E4B-4DA1-93E0-6AFACECADFD9 - 4a482cb76c68c41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testTests.RequestManagerDefault.fetch&lt;A where A: testTests.ApiRequest&gt;(_: A, completion: Swift.Optional&lt;(Swift.Result&lt;A.ResponseType, testTests.ApiError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2154">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36D5D966-1CD7-4748-ABF3-C94135B04A49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "defaultDecoder"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "36D5D966-1CD7-4748-ABF3-C94135B04A49 - a2f7783fc9841c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static test.RequestManagerDefault.defaultDecoder.getter : Foundation.JSONDecoder"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "36D5D966-1CD7-4748-ABF3-C94135B04A49 - 7a65d3e804eed03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static testTests.RequestManagerDefault.defaultDecoder.getter : Foundation.JSONDecoder"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "91">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2867AAAD-48E4-4959-BF65-BD58DDA87D17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "defaultDecoder"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2867AAAD-48E4-4959-BF65-BD58DDA87D17 - a2f7783fc9841c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static test.RequestManagerDefault.defaultDecoder.getter : Foundation.JSONDecoder"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "111">
+               </Location>
+               <Location
+                  uuid = "2867AAAD-48E4-4959-BF65-BD58DDA87D17 - 7a65d3e804eed03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static testTests.RequestManagerDefault.defaultDecoder.getter : Foundation.JSONDecoder"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "111">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CAB936D-8C0A-479D-B813-12EB247A863B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/Network/RequestManager/RequestManagerDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "defaultDecoder"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5CAB936D-8C0A-479D-B813-12EB247A863B - a2f7783fc9841c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static test.RequestManagerDefault.defaultDecoder.getter : Foundation.JSONDecoder"
+                  moduleName = "test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  uuid = "5CAB936D-8C0A-479D-B813-12EB247A863B - 7a65d3e804eed03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static testTests.RequestManagerDefault.defaultDecoder.getter : Foundation.JSONDecoder"
+                  moduleName = "testTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deepmoradia/Desktop/test/test/Network/RequestManager/RequestManagerDefault.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "171">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D9477BC-0DBC-44CF-8423-786D34AFDDB2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testTests/RequestManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "test_requestManager_shouldCallCompluetionWithResult()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
