@@ -52,13 +52,7 @@ extension WeatherViewController:UITableViewDataSource{
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
         let weatherCell = tableView.dequeueReusableCell(withIdentifier: "WaetherTableViewCell", for: indexPath) as! WaetherTableViewCell
-        if indexPath.row == 0{
-            weatherCell.backgroundColor = .cyan
-        } else if indexPath.row == 1{
-            weatherCell.backgroundColor = .lightGray
-        } else {
-            weatherCell.backgroundColor = .systemPurple
-        }
+        
         if let objWeather = self.weather {
             let objCity = objWeather.list?[indexPath.row]
             weatherCell.lblCityName.text = objCity?.name
